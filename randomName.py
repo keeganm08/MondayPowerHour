@@ -17,4 +17,5 @@ def randChar(amount):
                 charList += str(chr(random.randint(97,122)))
     return charList
 
-print(randChar(random.randint(4,10)),randChar(random.randint(4,10)))
+for i in range(20):
+    print(randChar(random.randint(4,10)),randChar(random.randint(4,10)))
