@@ -1,0 +1,5 @@
+2026-09-03 10:00:00 | exampleco | /home3/exampleco/public_html/index.html
+2026-09-03 10:05:00 | exampleco | /home3/exampleco/public_html/
+2026-09-03 10:10:00 | testcorp | /home3/testcorp/public_html/images/fake-logo.png
+2026-09-03 10:15:00 | exampleco | /home3/exampleco/private_backups/database.sql
+2026-09-03 10:20:00 | roguecompany | /home3/roguecompany/public_html/config.php
